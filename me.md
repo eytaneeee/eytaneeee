@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @eytaneeee
-- 👀 I’m interested in 3D and HTML
-- 🌱 I’m currently learning Java Script
-- 📫 How to reach me : eytane.kvisu@gmail.com
